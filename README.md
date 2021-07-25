@@ -1,4 +1,4 @@
-# WINCAcademy_WebDevelopment_026_FINAL_Color_Toggle
+# Color Toggle
 WINC Academy Web Development: final assignment Color Toggle
 
 
