@@ -1,6 +1,8 @@
 # COLOR TOGGLE
 WINC Academy Web Development: final assignment Color Toggle
 
+Note: This website isn't made mobile first and isn't working properly yet on small (mobile) screens.
+
 
 # minimal requirements
 
