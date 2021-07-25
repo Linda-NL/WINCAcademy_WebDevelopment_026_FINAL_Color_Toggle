@@ -1,4 +1,4 @@
-# Color Toggle
+# COLOR TOGGLE
 WINC Academy Web Development: final assignment Color Toggle
 
 
