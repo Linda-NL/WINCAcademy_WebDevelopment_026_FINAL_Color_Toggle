@@ -1,6 +1,3 @@
-// ALL GRABBED ELEMENTS
-
-
 // HAMBURGER MENU TOGGLE
 const hamburger = document.querySelector('#hamburger');
 const navToggleMenu = document.querySelector('#nav-toggle-menu');
